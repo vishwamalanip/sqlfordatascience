@@ -1,0 +1,3 @@
+This repository is a comprehensive resource for learning and applying SQL in data science. It covers essential SQL concepts, advanced querying techniques, data manipulation, and analysis specifically tailored for data science tasks. Whether you're a beginner looking to grasp the basics or an experienced data analyst seeking advanced techniques, this repository offers practical examples, exercises, and projects to enhance your SQL skills for data-driven decision-making.
+
+Ideal for data scientists, analysts, and anyone interested in data analysis, sqlfordatascience empowers users to effectively query, analyze, and draw insights from data.
