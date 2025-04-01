@@ -15,6 +15,7 @@ SQL is a critical skill for data science, and I’ve built a comprehensive SQL g
 I’ve also uploaded some insightful visuals from **Nitish Singh** to make learning even easier. 📸
 
 👉 Check out the full guide here: https://github.com/vishwamalanip/sqlfordatascience
+
 💻 Follow me on GitHub for more: https://github.com/vishwamalanip
 
 Let’s connect and explore the world of SQL & data science together! 🚀 #SQL #DataScience #SQLForDataScience #GitHub
