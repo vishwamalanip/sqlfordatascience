@@ -19,3 +19,6 @@ I’ve also uploaded some insightful visuals from **Nitish Singh** to make learn
 💻 Follow me on GitHub for more: https://github.com/vishwamalanip
 
 Let’s connect and explore the world of SQL & data science together! 🚀 #SQL #DataScience #SQLForDataScience #GitHub
+
+> ⭐ If you find this helpful, feel free to [fork](https://github.com/vishwamalanip/sqlfordatascience/fork), [star](https://github.com/vishwamalanip/sqlfordatascience/stargazers), or [clone this template](https://github.com/vishwamalanip/sqlfordatascience/generate)!
+
